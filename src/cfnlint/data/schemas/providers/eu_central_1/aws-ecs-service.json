@@ -71,7 +71,7 @@
     },
     "CanaryPercent": {
      "maximum": 100,
-     "minimum": 1,
+     "minimum": 0.1,
      "multipleOf": 0.1,
      "type": "number"
     }
@@ -285,7 +285,7 @@
     },
     "StepPercent": {
      "maximum": 100,
-     "minimum": 1,
+     "minimum": 3,
      "multipleOf": 0.1,
      "type": "number"
     }
